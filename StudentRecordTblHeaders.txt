@@ -1,0 +1,9 @@
+StudentTbl Headers:
+
+ID | Name | Address | Phone | Email | RegistrationDate | RegistrationClass | Advisor | CurrentGPA | CurrentClass
+
+
+
+TranscriptTbl:
+
+StudentID | CurrentGPA | Courses | Grade | Withdrawal
